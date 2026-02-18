@@ -5,8 +5,6 @@
 #include <cmath>
 using namespace std;
 
-// Main file!!!!!!!!
-
 int main() {
     int N = 100000; //ten million Total number of unique numbers to generate
     set<double> numbers;
